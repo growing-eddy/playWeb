@@ -7,5 +7,6 @@ public class Reader {
 
     public static void main(String[] args) {
         System.out.println("hello idea");
+        int a =1;
     }
 }
